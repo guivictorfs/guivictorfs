@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/guivictorfs">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guivictorfs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guivictorfs&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guivictorfs&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>    
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guivictorfs&layout=compact&langs_count=6&theme=synthwave"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -17,8 +17,8 @@
 ### Redes sociais para contato:
  
 <div> 
-  <a href = "mailto:guivictorfs@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guivictorfs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:guivictorfs@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5512983005577" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
 </div>
